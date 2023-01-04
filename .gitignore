@@ -14,3 +14,9 @@ Desktop.ini
 
 # OSX
 .DS_Store
+
+# used by newer versions of Hugo
+.hugo_build.lock
+
+# generated output
+userguide/*
